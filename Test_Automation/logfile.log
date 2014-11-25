@@ -1,0 +1,86 @@
+2014-11-10 12:57:31,372 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 12:59:08,734 INFO  [loanAccount_TestCase] Fee Creation Successfull 
+2014-11-10 13:00:10,666 INFO  [loanAccount_TestCase] Fee Set Creation Successfull 
+2014-11-10 13:00:54,912 INFO  [loanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-10 13:03:00,236 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 13:03:36,609 INFO  [loanAccount_TestCase] Loan Approval Successfull 
+2014-11-10 13:03:37,190 INFO  [loanAccount_TestCase] Logout Successfull 
+2014-11-10 15:26:02,537 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 15:27:01,347 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 15:27:02,101 INFO  [loanAccount_TestCase] Logout Successfull 
+2014-11-10 16:03:27,637 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:05:53,169 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:08:08,238 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:10:28,462 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 16:14:12,812 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:15:23,612 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 16:31:49,134 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:33:03,715 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 16:35:08,103 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:36:05,429 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 16:37:48,385 INFO  [loanAccount_TestCase] User Log in Successfull 
+2014-11-10 16:40:13,759 INFO  [loanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-10 16:40:14,650 INFO  [loanAccount_TestCase] Logout Successfull 
+2014-11-11 11:22:34,206 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-11 11:23:21,779 INFO  [LoanAccount_TestCase] Fee Creation Successfull 
+2014-11-11 11:24:45,316 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-11 11:25:11,772 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-11 11:25:24,057 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-11 11:26:06,010 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-11 11:31:59,042 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-11 11:32:40,741 INFO  [LoanAccount_TestCase] Fee Set Creation Successfull 
+2014-11-11 11:33:00,645 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-11 11:33:37,698 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-11 12:00:28,965 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-11 12:02:16,296 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-11 12:02:25,615 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-11 12:33:21,829 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-11 12:34:21,365 INFO  [LoanAccount_TestCase] Fee Creation Successfull 
+2014-11-11 12:34:50,980 INFO  [LoanAccount_TestCase] Fee Set Creation Successfull 
+2014-11-11 12:35:39,949 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-11 12:35:57,744 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-11 12:36:13,486 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-11 12:36:21,481 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-16 19:57:22,909 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 19:57:43,684 INFO  [LoanAccount_TestCase] Fee Creation Successfull 
+2014-11-16 19:58:09,925 INFO  [LoanAccount_TestCase] Fee Set Creation Successfull 
+2014-11-16 19:58:35,554 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-16 19:59:02,632 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:08:15,359 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 20:08:44,863 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:09:35,701 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-16 20:10:38,556 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-16 20:20:49,848 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 20:21:19,046 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:22:07,930 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-16 20:22:34,665 INFO  [LoanAccount_TestCase] Loan Disbursal Successfull 
+2014-11-16 20:23:06,996 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-16 20:33:55,891 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 20:34:25,555 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:35:52,717 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 20:36:24,503 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:36:42,300 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-16 20:36:53,684 INFO  [LoanAccount_TestCase] Loan Disbursal Successfull 
+2014-11-16 20:36:56,715 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-16 20:45:32,780 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 20:46:03,383 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:47:20,589 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-16 20:47:46,565 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-16 20:48:04,456 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-16 20:48:16,977 INFO  [LoanAccount_TestCase] Loan Disbursal Successfull 
+2014-11-16 20:48:22,305 INFO  [LoanAccount_TestCase] Payment Successfull 
+2014-11-16 20:48:23,946 INFO  [LoanAccount_TestCase] Logout Successfull 
+2014-11-17 11:47:16,197 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-17 11:47:43,517 INFO  [LoanAccount_TestCase] Fee Creation Successfull 
+2014-11-17 11:48:12,366 INFO  [LoanAccount_TestCase] Fee Set Creation Successfull 
+2014-11-17 11:48:35,749 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-17 11:49:19,218 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-17 11:52:58,948 INFO  [LoanAccount_TestCase] User Log in Successfull 
+2014-11-17 11:53:26,727 INFO  [LoanAccount_TestCase] Fee Creation Successfull 
+2014-11-17 11:53:54,629 INFO  [LoanAccount_TestCase] Fee Set Creation Successfull 
+2014-11-17 11:54:16,211 INFO  [LoanAccount_TestCase] Loan Product Creation Successfull 
+2014-11-17 11:54:59,936 INFO  [LoanAccount_TestCase] Loan Account Creation Successfull 
+2014-11-17 11:55:21,822 INFO  [LoanAccount_TestCase] Loan Approval Successfull 
+2014-11-17 11:55:43,349 INFO  [LoanAccount_TestCase] Loan Disbursal Successfull 
+2014-11-17 11:55:52,289 INFO  [LoanAccount_TestCase] Payment Successfull 
+2014-11-17 11:55:52,977 INFO  [LoanAccount_TestCase] Logout Successfull 

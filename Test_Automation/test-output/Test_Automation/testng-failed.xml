@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test_Automation]">
+  <test name="Loan Account(failed)">
+    <classes>
+      <class name="automationFramework.loanAccount_TestCase">
+        <methods>
+          <include name="loanAccountTestcase"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- automationFramework.loanAccount_TestCase -->
+    </classes>
+  </test> <!-- Loan Account(failed) -->
+</suite> <!-- Failed suite [Test_Automation] -->
