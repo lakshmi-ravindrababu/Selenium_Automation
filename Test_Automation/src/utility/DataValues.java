@@ -50,6 +50,7 @@ public class DataValues {
 	public static String mFee = null;
 	
 	public static String rTerm = null;
+	public static String rInterest = null;
       
 	public static void getLoginDataValue() throws Exception
 	
@@ -139,6 +140,7 @@ public class DataValues {
 		 ExcelUtils.setExcelFile(Constant.Path_TestData + Constant.File_TestData,"LoanAction");
 		 
 		 rTerm = ExcelUtils.getCellData(2,0);
+		 rInterest = ExcelUtils.getCellData(2,1);
 	}
 
 }

@@ -26,7 +26,7 @@ public class NewTest {
 	  //DataValues.getValue();
 	  SignIn_Action.execute(driver);
 	  driver.findElement(By.linkText("Contracts")).click();
-	  driver.findElement(By.linkText("LAI-02701460")).click();
+	  driver.findElement(By.linkText("LAI-02701464")).click();
   }
   
   @Test
