@@ -32,13 +32,13 @@ public class NewLoanAccount_Validation {
 	    
 	    		
 		/*Validate that the Loan Account is created for the given contact*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/table/tbody/tr/td/div[1]/div/div[2]/div[5]/table/tbody/tr[2]/td[4]/div/a",DataValues.lContactName);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/table/tbody/tr/td/div[1]/div/div[2]/div[5]/table/tbody/tr[2]/td[4]/div/a",DataValues.lContactName,"innerHTML");
 	    Reporter.log("Loan Contact Name Validation : " + result);
 	    updateTestStatus(result);
 	    
 
 		/*Validate that the Loan Account is created with the given loan purpose*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/table/tbody/tr/td/div[1]/div/div[2]/div[5]/table/tbody/tr[4]/td[4]/div/a",DataValues.lPurpose);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/table/tbody/tr/td/div[1]/div/div[2]/div[5]/table/tbody/tr[4]/td[4]/div/a",DataValues.lPurpose,"innerHTML");
 	    Reporter.log("Loan Purpose Validation : " + result);
 	    updateTestStatus(result);
 	     
@@ -49,7 +49,7 @@ public class NewLoanAccount_Validation {
 	   // updateTestStatus(result);
 	    
 		/*Validate that the Loan Account is created with the amount given*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/table/tbody/tr/td/div[1]/div/div[2]/div[7]/table/tbody/tr[1]/td[2]/div",DataValues.lAmount);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td[1]/table/tbody/tr/td/div[1]/div/div[2]/div[7]/table/tbody/tr[1]/td[2]/div",DataValues.lAmount,"innerHTML");
 	    Reporter.log("Loan Amount Validation : " + result);
 	    updateTestStatus(result);
 		

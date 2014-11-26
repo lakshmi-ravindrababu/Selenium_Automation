@@ -40,10 +40,10 @@ public class ComparisonUtility {
 	}
 	
 	/*This method validates that two given values are equal*/
-	public static String outputValueValidate(WebDriver driver,String path,String value) throws Exception{
+	public static String outputValueValidate(WebDriver driver,String path,String value,String Attribute) throws Exception{
 		
 		
-		bodyText = driver.findElement(By.xpath(path)).getAttribute("innerHTML");
+		bodyText = driver.findElement(By.xpath(path)).getAttribute(Attribute);
 		inputValue = value;
 		if(bodyText.equals(inputValue)){
 			

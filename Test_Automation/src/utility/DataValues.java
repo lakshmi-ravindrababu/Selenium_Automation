@@ -51,7 +51,8 @@ public class DataValues {
 	
 	public static String rTerm = null;
 	public static String rInterest = null;
-      
+    public static String rDate = null;
+    
 	public static void getLoginDataValue() throws Exception
 	
 	{
@@ -141,6 +142,7 @@ public class DataValues {
 		 
 		 rTerm = ExcelUtils.getCellData(2,0);
 		 rInterest = ExcelUtils.getCellData(2,1);
+		 rDate = ExcelUtils.getCellData(2,2);
 	}
 
 }

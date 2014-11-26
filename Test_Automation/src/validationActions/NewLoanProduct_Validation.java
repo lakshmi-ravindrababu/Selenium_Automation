@@ -29,27 +29,27 @@ public class NewLoanProduct_Validation {
 	    updateTestStatus(result);
 	    
 	    /*Validate that the Loan Product is created with the given name*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[1]/td[2]/div",DataValues.lProductName);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[1]/td[2]/div",DataValues.lProductName,"innerHTML");
 	    Reporter.log("Loan Product Name Validation : " + result);
 	    updateTestStatus(result);
 	   		
 		/*Validate that the Loan Product is created with the given type*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[2]/td[4]/div",DataValues.lType);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[2]/td[4]/div",DataValues.lType,"innerHTML");
 	    Reporter.log("Loan Product Type Validation : " + result);
 	    updateTestStatus(result);  
 		
 		/*Validate that the Loan Product is created with the given Billing Method*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[2]/td[2]/div",DataValues.lBillingMethod);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[2]/td[2]/div",DataValues.lBillingMethod,"innerHTML");
 	    Reporter.log("Loan Product Billing Method Validation : " + result);
 	    updateTestStatus(result);  
 		
 		/*Validate that the Loan Product is created with the given Time Counting Type*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[3]/td[4]/div",DataValues.lTimeCounting);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[3]/td[4]/div",DataValues.lTimeCounting,"innerHTML");
 	    Reporter.log("Loan Product Time Counting Type Validation : " + result);
 	    updateTestStatus(result);  
 	    
 	    /*Validate that the Loan Product is created with the given Payment Frequency*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[3]/td[2]/div",DataValues.lPaymentFrequeny);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[3]/td[2]/div",DataValues.lPaymentFrequeny,"innerHTML");
 	    Reporter.log("Loan Product Payment Frequency Validation : " + result);
 	    updateTestStatus(result);  
 	 
@@ -63,7 +63,7 @@ public class NewLoanProduct_Validation {
 	    Reporter.log("Loan Product PreBill Days Validation : " + result);
 	   		
 		/*Validate that the Loan Product is created with the given Accural Start Basis*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[5]/td[2]/div",DataValues.lAccuralStart);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[2]/table/tbody/tr[5]/td[2]/div",DataValues.lAccuralStart,"innerHTML");
 	    Reporter.log("Loan Product Accural Start Basis Validation : " + result);
 	    updateTestStatus(result);  
 	    
@@ -98,7 +98,7 @@ public class NewLoanProduct_Validation {
 	    updateTestStatus(result);  
 			   		
 	    /*Validate that the Loan Product is created with the given Interest Type*/
-	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[10]/table/tbody/tr[1]/td[2]/div",DataValues.lInterestType);
+	    result = ComparisonUtility.outputValueValidate(driver,"/html/body/div[1]/div[2]/table/tbody/tr/td[2]/div[4]/div[2]/div[10]/table/tbody/tr[1]/td[2]/div",DataValues.lInterestType,"innerHTML");
 	    Reporter.log("Loan Product Interest Type : " + result);
 	    updateTestStatus(result);  
 		

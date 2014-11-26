@@ -71,7 +71,7 @@ public class LoanPayOff_Validation {
 	public static void afterPayOffValidation(WebDriver driver) throws Exception{
 		
 	    Thread.sleep(4000);
-	    result = ComparisonUtility.outputValueValidate(driver,"00N90000003ctTLj_id0_loanDetailIframe_ileinner","Closed - Obligations met");
+	    result = ComparisonUtility.outputValueValidate(driver,"00N90000003ctTLj_id0_loanDetailIframe_ileinner","Closed - Obligations met","innerHTML");
 	    Reporter.log("Loan Status Validation : " + result);
 	    updateTestResult(result);
 	    	    
